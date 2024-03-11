@@ -1,0 +1,15 @@
+streamlit
+googletrans-py
+moviepy
+langdetect
+SpeechRecognition
+instaloader
+requests
+opencv-python
+pytesseract
+transformers
+torch
+sentencepiece
+pipeline
+python-pipeline
+pipe

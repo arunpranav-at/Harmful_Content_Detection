@@ -1,4 +1,4 @@
-# Harmful Content Detection
+# Empo(W)HER - Harmful Content Detection
 A comprehensive platform which takes in different input formats (texts, audio, video, images, URLs) of various languages including Tanglish, Tamil, English and detects harmful contents. <br>
 
 # Models

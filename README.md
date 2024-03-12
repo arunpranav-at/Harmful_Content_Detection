@@ -29,7 +29,6 @@ pipe <br>
 ![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/a115b173-9756-4155-9681-d210cf66d454) <br>
 ![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/286962e8-3dea-4933-aa85-1341971f1448) <br>
 ![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/ec29325b-1665-4081-9159-831322a0f759) <br>
-![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/1ff47897-33c8-4a79-9a51-b75b8c161985) <br>
 ![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/01c48496-046b-448e-be8c-2e86ce7f23bd) <br>
 ![image](https://github.com/arunpranav-at/Harmful_Content_Detection/assets/115616429/5aeec3c5-7fe5-4bdf-a512-7e2a9da7bc2a) <br>
 
